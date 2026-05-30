@@ -8,14 +8,16 @@ I don't just build software to check off lines of code; I engineer applications 
 
 ---
 
-### 🛠️ Production Tech Stack & Tooling
+### ⚙️ Production Tech Stack & Tooling
 
-| Ecosystem Layer | Technologies |
-| **Primary Stack (Deep Dive)** | Next.js 16 (App Router) • React 19 • TypeScript • Node.js • Server Actions |
+| Layer | Technologies |
+| :--- | :--- |
+| **Primary Stack** | Next.js 16 (App Router) • React 19 • TypeScript • Node.js • Server Actions |
 | **UI/UX Architecture** | Tailwind CSS 4 • Framer Motion (Spring Physics / 3D Tilt) • Shadcn/UI |
-| **Backend & Data Layer** | Supabase • PostgreSQL (Dynamic JSONB Schema Mapping) • Row Level Security (RLS) |
+| **Backend & Data** | Supabase • PostgreSQL (Dynamic JSONB Schema Mapping) • Row Level Security (RLS) |
 | **AI Orchestration** | Google Gemini 2.0 Flash Engine • Structured LLM Prompt Engineering |
-| **Engineering Foundations** | Python (Scripting) • SQL (Relational Queries) • Java (OOP Principles) • Git/GitHub |
+| **Foundations** | Python (Scripting) • SQL (Relational Queries) • Java (OOP Principles) • Git/GitHub |
+
 ---
 
 ### 🚀 Featured Production Build
@@ -29,6 +31,7 @@ An enterprise-grade roadmap generator designed to bypass the traditional hurdles
 ---
 
 ### 📈 Current Vectors of Growth
+
 - 🧠 Migrating dynamic application states into advanced, nested PostgreSQL JSONB query schemas.
 - 🎓 Deepening core expertise in Stakeholder Management, Metrics, and Product Execution via Coursera (SkillUp Online).
 - ⚙️ Optimizing web pipelines and tightening backend access layers via Supabase RLS policies.
@@ -36,6 +39,7 @@ An enterprise-grade roadmap generator designed to bypass the traditional hurdles
 ---
 
 ### 🤝 Connect & Collaborate
+
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/krish-divekar-0ab923383/]
 * 📬 **Email:** [divekarkrish3@gmail.com]
 * 📍 **Location:** Mumbai, India 🇮🇳
