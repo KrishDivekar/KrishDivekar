@@ -12,7 +12,7 @@ I don't just build software to check off lines of code; I engineer applications 
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Primary Stack** | Next.js 16 (App Router) • React 19 • TypeScript • Node.js • Server Actions |
+| **Primary Stack** | Next.js 15 (App Router) • React 19 • TypeScript • Node.js • Server Actions |
 | **UI/UX Architecture** | Tailwind CSS 4 • Framer Motion (Spring Physics / 3D Tilt) • Shadcn/UI |
 | **Backend & Data** | Supabase • PostgreSQL (Dynamic JSONB Schema Mapping) • Row Level Security (RLS) |
 | **AI Orchestration** | Google Gemini 2.0 Flash Engine • Structured LLM Prompt Engineering |
