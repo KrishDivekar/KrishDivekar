@@ -22,32 +22,19 @@ I don't just build software to check off lines of code; I engineer applications 
 
 ### 🚀 Featured Production Build
 
-# 📍 Waymark — AI-Powered Localized Startup Navigator
+#### **📍 Waymark — AI-Powered Localized Startup Navigator**
+An enterprise-grade roadmap generator designed to bypass the traditional hurdles of entering specific regional economies.
+* **The Product Edge:** Integrated custom programmatic prompt layers mapping localized business constraints including Indian regional compliance modules (`GST`, `FSSAI`, `MSME Requirements`) to provide authentic, context-driven roadmaps instead of generic AI outputs.
+* **The Technical Edge:** Built on an end-to-end type-safe Next.js server structure utilizing PostgreSQL JSONB columns to support dynamic, multi-step progress tracking with real-time state persistence.
+* **The Experience:** Wrapped in a premium glassmorphism design language with physics-backed fluid micro-animations.
 
-Waymark is a product-focused application designed to bridge the gap between abstract business concepts and highly detailed, execution-ready real-world strategies. Instead of generic conversational AI output, Waymark engineers context-aware, step-by-step pathfinders mapping out compliance, technical milestones, and regional business requirements.
+---
 
-## 🚀 Core Features & Architecture
-
-- **Contextual Deterministic Mapping:** Transforms high-level user ideas into hyper-localized roadmaps incorporating specific compliance parameters (e.g., GST, FSSAI, MSME requirements).
-- **Dynamic Schema Architecture:** Powered by PostgreSQL `JSONB` column mapping to store and query complex, fluid multi-step user roadmap states with zero database bloat.
-- **High-Velocity AI Orchestration:** Integrates the Google Gemini 2.0 Flash engine using structured prompt engineering to guarantee lightning-fast data returns.
-- **Premium User Experience:** Built using Next.js 16 Server Actions and React 19, wrapped inside a fluid glassmorphism UI with custom physics-backed micro-animations via Framer Motion.
-
-## 🛠️ System Workflow
-
-1. **User Input:** User submits a rough business idea or feature intent.
-2. **AI Processing Layer:** Gemini 2.0 Flash processes the intent against localized parameter data layers.
-3. **Structured Storage:** The generated detailed steps are validated and stored dynamically within Supabase/PostgreSQL.
-4. **State Persistence:** Users track progress across deep-nested subtasks with instant UI updates.
-
-## 🏃‍♂️ Local Development Setup
-
-To run this project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/KrishDivekar/waymark.git](https://github.com/KrishDivekar/waymark.git)
-   cd waymark
+### 📈 Current Vectors of Growth
+- 🧠 Migrating dynamic application states into advanced, nested PostgreSQL JSONB query schemas.
+- 🎓 Deepening core expertise in Stakeholder Management, Metrics, and Product Execution via Coursera (SkillUp Online).
+- ⚙️ Optimizing web pipelines and tightening backend access layers via Supabase RLS policies
+  
 ---
 
 ### 🤝 Connect & Collaborate
